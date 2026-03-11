@@ -9,6 +9,11 @@
       "package": "com.sigarabirakma.app",
       "versionCode": 1
     },
+    "extra": {
+      "eas": {
+        "projectId": "43751e5c-5539-42c7-ac07-610b56c11d5c"
+      }
+    },
     "platforms": ["android", "ios"]
   }
 }
